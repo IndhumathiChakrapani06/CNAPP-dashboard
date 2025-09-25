@@ -2,6 +2,7 @@
 
 A **React + Vite** based dashboard for Cloud Native Application Protection Platform (CNAPP).  
 It provides customizable widgets, charts, and toolbars to visualize cloud security data.
+Front-end assignment submitted to AccuKnox India Private Limited (AccuKnox) — front-end trainee selection task.
 
 ---
 
@@ -12,10 +13,6 @@ It provides customizable widgets, charts, and toolbars to visualize cloud securi
 - 🎛️ **Toolbar** — Refresh, time-frame selection, and more menu options.  
 - 🎨 **Custom UI** — Built with React, Vite, and CSS.
 
----📸 Screenshots
-
-<img width="1366" height="768" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/76dcae3a-60bc-476f-8254-298b84a2af33" />
-
 
 ## 📂 Project Structure
 src/
@@ -23,7 +20,6 @@ src/
 │ ├─ Dashboard.jsx
 │ ├─ WidgetCard.jsx
 │ ├─ Toolbar.jsx
-  |-Toolbar.css
 │ ├─ AddWidgetDialog.jsx
 │ └─ AddWidgetDialog.css
 ├─ App.jsx
@@ -40,3 +36,8 @@ src/
 Deployed with Vercel
 .
 Live URL: https://cnapp-dashboard-indhu.vercel.app/
+
+
+---📸 Screenshots
+
+<img width="1366" height="768" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/76dcae3a-60bc-476f-8254-298b84a2af33" />
